@@ -76,9 +76,10 @@ No external libraries are required.
 # Installation
 
 Clone the repository:
+git clone https://github.com/MohsanRazaq/games/tree/master/hangman-project.git
 
 ```bash
-git clone https://github.com/your-username/hangman-project.git
+hangman-project
 ```
 
 Move into the project directory:
